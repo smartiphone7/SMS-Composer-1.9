@@ -73,8 +73,13 @@ Price
 
 The original download was located at https://sms-composer.soft112.com/ / https://galad.ro/apks/00/00/00/D6/000000D6W1/android-smsrcomsc-19.apk 
 Glad I could download it before the link went down, there was another site that offered it too but that link also went down. Good thing that it's not lost media now. 
-Had to transfer it via Bluetooth from the phone I downloaded it to lol
+Had to transfer it via Quick Share from the phone I downloaded it to lol
+
+The following screenshots are from my phone, the above was from the website: 
 
 <img width="240" height="320" alt="Screenshot_20260913-211013" src="https://github.com/user-attachments/assets/ff5b8869-fb3b-4dce-981e-5dc25007f3ab" />
-
+<img width="240" height="320" alt="Screenshot_20260913-211759" src="https://github.com/user-attachments/assets/59be2247-048e-459e-8ddf-f3268334c0f3" />
+<img width="240" height="320" alt="Screenshot_20260913-211852" src="https://github.com/user-attachments/assets/9a8ff146-e010-4484-8cdf-ba2d83c9e103" />
+<img width="240" height="320" alt="Screenshot_20260913-211819" src="https://github.com/user-attachments/assets/fdbe9f7f-3b87-429a-98da-a6829be36263" />
+<img width="240" height="320" alt="Screenshot_20260913-211804" src="https://github.com/user-attachments/assets/57174ba6-37cb-4543-b7bb-cd5c72188d63" />
 
